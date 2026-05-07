@@ -1,5 +1,9 @@
 # GrooveLink
 
+[![Tests](https://github.com/GrooveXlabs/groovelink/actions/workflows/test.yml/badge.svg)](https://github.com/GrooveXlabs/groovelink/actions/workflows/test.yml)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 A resilient API client for Python with built-in **circuit breaker**, **retry**, **rate limiting**, and **health checks**.
 
 ## Features
@@ -82,6 +86,18 @@ groovelink/
 pytest
 ```
 
+## Ecosystem
+
+| Project | Description |
+|---------|-------------|
+| [grooveguard](https://github.com/GrooveXlabs/grooveguard) | MCP Server Security Scanner |
+| [groovehub](https://github.com/GrooveXlabs/groovehub) | MCP Server Registry |
+| [groovestrike](https://github.com/GrooveXlabs/groovestrike) | Autonomous pentest framework |
+| [groovefetch](https://github.com/GrooveXlabs/groovefetch) | AI-native web scraper |
+| [purpleforge](https://github.com/GrooveXlabs/purpleforge) | Purple team defense rules |
+| [threathound](https://github.com/GrooveXlabs/threathound) | Blue Team SOC automation |
+| [redtrack](https://github.com/GrooveXlabs/redtrack) | Red Team recon & attack paths |
+
 ## License
 
-MIT
+MIT — GrooveXlabs
